@@ -1,1 +1,0 @@
-Este es un documento de prueba READ ME sobre la practica-git
